@@ -5,7 +5,7 @@
 Summary:	K Desktop Environment - Strigi analyzers for various graphic types
 Name:		kdegraphics-strigi-analyzer
 Version:	4.7.3
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.bz2
