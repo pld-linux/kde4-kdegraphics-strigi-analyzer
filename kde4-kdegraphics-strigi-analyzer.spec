@@ -4,12 +4,12 @@
 
 Summary:	K Desktop Environment - Strigi analyzers for various graphic types
 Name:		kde4-kdegraphics-strigi-analyzer
-Version:	4.8.0
+Version:	4.9.0
 Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
-Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.bz2
-# Source0-md5:	f25df7e81603bcb02c4246eef3826381
+Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
+# Source0-md5:	5b0d957cf5b6fe2f5c9e2a039925c17a
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel >= %{version}
 BuildRequires:	libtiff-devel
